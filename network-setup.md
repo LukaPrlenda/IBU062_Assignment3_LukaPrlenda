@@ -27,3 +27,8 @@ Server-PT Server2 210.3.14.12
 
 PC_PT PC4 210.3.14.14
 PC_PT PC3 168.90.0.15
+
+In the router I used CLI to configure both ports.
+I used this commandes:
+! Configuring interface for...
+! DHCP pool for...
