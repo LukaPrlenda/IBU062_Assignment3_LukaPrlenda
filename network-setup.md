@@ -23,3 +23,7 @@ PC_PT PC2 210.3.14.11
 Server-PT Server1 210.3.14.13
 
 Server-PT Server2 210.3.14.12
+
+
+PC_PT PC4 210.3.14.14
+PC_PT PC3 168.90.0.15
